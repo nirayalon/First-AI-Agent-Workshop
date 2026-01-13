@@ -12,7 +12,7 @@ Wikipedia, capable of saving its findings to a file.
 Before we begin coding, let's ensure our development environment is correctly set up.
 
 **Prerequisites:**
-*   **Python 3.13** should be installed on your system. You can check your
+*   **Python 3.12** should be installed on your system. You can check your
     Python version by running `python --version` or `python3 --version` in your terminal.
 *   A **code editor** is recommended. 
     
