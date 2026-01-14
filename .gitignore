@@ -1,3 +1,5 @@
 .env
 .env.local
 .env.*.local
+ai_agent_venv/*
+.idea/*
