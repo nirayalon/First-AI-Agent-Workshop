@@ -6,4 +6,5 @@ langchain-community
 langchain-classic
 langchain-openai
 anthropic
-duckduckgo-search
+ddgs
+wikipedia
